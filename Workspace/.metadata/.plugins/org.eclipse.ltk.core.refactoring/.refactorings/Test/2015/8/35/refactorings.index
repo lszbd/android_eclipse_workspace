@@ -1,0 +1,3 @@
+1440869218650	Convert local variable 'string' to field
+1440869452338	Convert local variable 'textView' to field
+1440870627216	Extracts string 'Java' into R.string.java
